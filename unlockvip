@@ -42,7 +42,7 @@ https://user-kaji-api.b612kaji.com/v1/purchase/subscription/subscriber/status ur
 ;^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js
 
 # > 092 OldRoll解锁永久会员 by Hausd0rff
-;^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/OldRollFVIPCrack.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/OldRollFVIPCrack.js
 
 # > 091 NewFace解锁永久会员 by Hausd0rff
 ;^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/NewFaceFVIPCrack.js
