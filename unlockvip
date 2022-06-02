@@ -149,7 +149,7 @@ https://user-kaji-api.b612kaji.com/v1/purchase/subscription/subscriber/status ur
 ^https:\//api.feidee.net\/v1\/pay\/vip url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/jizhang/vip.js
 
 # > 073 即刻 yellow（20220118）by litieyin
-^https:\//api.ruguoapp.com\/1.0\/users\/profile url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/jike.js
+#^https:\//api.ruguoapp.com\/1.0\/users\/profile url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/jike.js
 
 # > 072 时光手账（20220118）by litieyin
 ^https:\//api.shouzhang.com\/memcenterlk\/member\/firstpage.do url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/shouzhang.js
